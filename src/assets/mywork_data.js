@@ -20,7 +20,7 @@ const mywork_data = [
         w_name:"Web App",
         w_img:project3_img,
         w_description:""
-    },
+    }
     
 ]
  
